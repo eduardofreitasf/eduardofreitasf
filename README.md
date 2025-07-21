@@ -17,7 +17,8 @@ Eu sou um estudante de Licenciatura em Engenharia Informática na Universidade d
 <br />
 
 #
-
+<!--
 ### 📊 Estatísticas
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardofreitasf&show_icons=true&theme=ayu-mirage)
+-->
