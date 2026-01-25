@@ -16,7 +16,7 @@ My name is **Eduardo Freitas Fernandes** and I'm a **Software Engineering** stud
 - 🔐 **Security & Comms:** Exploring network security and the fundamentals of digital communication.
 - 🔭 I’m currently working on **[Data Structures](https://github.com/eduardofreitasf/data_structures)**
 - 🌱 I’m currently learning **Java frameworks and project modeling**.
-- 🌍 Check out my portfolio: **TODO**
+- 🌍 Check out my portfolio: https://eduardofreitasf.github.io/portfolio/
 
 ---
 
@@ -46,6 +46,7 @@ My name is **Eduardo Freitas Fernandes** and I'm a **Software Engineering** stud
 | **Memory Allocator** | Memory allocation library | C | [Repo](https://github.com/eduardofreitasf/memory_allocator) |
 | **Build System** | Build system for C projects | Python | [Repo](https://github.com/eduardofreitasf/build_system) |
 | **Data Structures** | Implementation of different data structures | C | [Repo](https://github.com/eduardofreitasf/data_structures) |
+| **Portfolio** | Personal Portfolio website | HTML CSS VueJS | [Repo](https://github.com/eduardofreitasf/portfolio) |
 
 ---
 
