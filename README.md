@@ -1,16 +1,14 @@
 
-# Hi there, I'm Eduardo 👋
+# Hi there, I'm Eduardo 👋 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoffernandes/)
 
 <!--
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eduardofreitasf&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
-
 -->
 
 ### 🚀 About Me
-I'm a **Software Engineering** student at [**Universidade do Minho**](https://www.uminho.pt), where I split my time between high-level abstractions and low-level hardware. I enjoy bridging the gap between elegant algorithms and system-level performance.
+My name is **Eduardo Freitas Fernandes** and I'm a **Software Engineering** student at [**Universidade do Minho**](https://www.uminho.pt), where I split my time between high-level abstractions and low-level hardware. I enjoy bridging the gap between elegant algorithms and system-level performance.
 
 - 🎓 **Education:** Software Engineering Degree @ UMinho
 - 🐧 **Low-Level Enthusiast:** Deeply interested in **Linux internals**, **OS development**, and **C programming**.
@@ -18,7 +16,7 @@ I'm a **Software Engineering** student at [**Universidade do Minho**](https://ww
 - 🔐 **Security & Comms:** Exploring network security and the fundamentals of digital communication.
 - 🔭 I’m currently working on **[Data Structures](https://github.com/eduardofreitasf/data_structures)**
 - 🌱 I’m currently learning **Java frameworks and project modeling**.
-- 🌍 Check out my portfolio:
+- 🌍 Check out my portfolio: **TODO**
 
 ---
 
@@ -45,8 +43,9 @@ I'm a **Software Engineering** student at [**Universidade do Minho**](https://ww
 
 | Project | Description | Tools | Link |
 | :--- | :--- | :--- | :--- |
-| **Memory Allocator** | Memory allocation library. | C | [Repo](https://github.com/eduardofreitasf/memory_allocator) |
-| **Build System** | Build system for C projects. | Python | [Repo](https://github.com/eduardofreitasf/build_system) |
+| **Memory Allocator** | Memory allocation library | C | [Repo](https://github.com/eduardofreitasf/memory_allocator) |
+| **Build System** | Build system for C projects | Python | [Repo](https://github.com/eduardofreitasf/build_system) |
+| **Data Structures** | Implementation of different data structures | C | [Repo](https://github.com/eduardofreitasf/data_structures) |
 
 ---
 
@@ -56,12 +55,13 @@ I'm a **Software Engineering** student at [**Universidade do Minho**](https://ww
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofreitasf&layout=compact&theme=radical" />
 </p>
 
+<!--
+
 ---
 
 ### 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoffernandes/)
-
-<!--
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
+
 -->
 
