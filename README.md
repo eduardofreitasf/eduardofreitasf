@@ -16,7 +16,7 @@ My name is **Eduardo Freitas Fernandes** and I'm a **Software Engineering** stud
 - 🔐 **Security & Comms:** Exploring network security and the fundamentals of digital communication.
 - 🔭 I’m currently working on **[Data Structures](https://github.com/eduardofreitasf/data_structures)**
 - 🌱 I’m currently learning **Java frameworks and project modeling**.
-- 🌍 Check out my portfolio: https://eduardofreitasf.github.io/portfolio/
+- 🌍 Check out my portfolio: **[Portfolio](https://eduardofreitasf.github.io/portfolio/)**
 
 ---
 
