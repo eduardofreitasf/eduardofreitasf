@@ -47,7 +47,11 @@ My name is **Eduardo Freitas Fernandes** and I'm a **Software Engineering** stud
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardofreitasf&show_icons=true&theme=radical&include_all_commits=false&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofreitasf&layout=compact&theme=radical" />
-</p>
+
+<div align="center">
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=eduardofreitasf&show_icons=true&theme=radical&include_all_commits=false&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eduardofreitasf&layout=compact&theme=radical" />
+  </p>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=eduardofreitasf&theme=radical" />
+</div>
