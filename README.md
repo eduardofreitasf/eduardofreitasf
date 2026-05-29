@@ -1,12 +1,6 @@
 
 # Hi there, I'm Eduardo 👋 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoffernandes/)
 
-<!--
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eduardofreitasf&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
--->
-
 ### 🚀 About Me
 My name is **Eduardo Freitas Fernandes** and I'm a **Software Engineering** student at [**Universidade do Minho**](https://www.uminho.pt), where I split my time between high-level abstractions and low-level hardware. I enjoy bridging the gap between elegant algorithms and system-level performance.
 
@@ -14,7 +8,7 @@ My name is **Eduardo Freitas Fernandes** and I'm a **Software Engineering** stud
 - 🐧 **Low-Level Enthusiast:** Deeply interested in **Linux internals**, **OS development**, and **C programming**.
 - 🧩 **Algorithm Fanatic:** Love exploring **Functional Programming (Haskell)**, complex Data Structures, and Big-O optimization.
 - 🔐 **Security & Comms:** Exploring network security and the fundamentals of digital communication.
-- 🔭 I’m currently working on **[Data Structures](https://github.com/eduardofreitasf/data_structures)**
+- 🔭 I’m currently working on **[Mechanic Pro](https://github.com/eduardofreitasf/mechanic_shop)**
 - 🌱 I’m currently learning **Java frameworks and project modeling**.
 - 🌍 Check out my portfolio: **[Portfolio](https://eduardofreitasf.github.io/portfolio/)**
 
@@ -41,12 +35,14 @@ My name is **Eduardo Freitas Fernandes** and I'm a **Software Engineering** stud
 
 ### 🌟 Featured Projects
 
-| Project | Description | Tools | Link |
-| :--- | :--- | :--- | :--- |
-| **Memory Allocator** | Memory allocation library | C | [Repo](https://github.com/eduardofreitasf/memory_allocator) |
-| **Build System** | Build system for C projects | Python | [Repo](https://github.com/eduardofreitasf/build_system) |
-| **Data Structures** | Implementation of different data structures | C | [Repo](https://github.com/eduardofreitasf/data_structures) |
-| **Portfolio** | Personal Portfolio website | HTML CSS VueJS | [Repo](https://github.com/eduardofreitasf/portfolio) |
+| Project              | Description                                 | Tools          | Link                                                        |
+| :------------------- | :------------------------------------------ | :------------- | :---------------------------------------------------------- |
+| **Mechanic Pro**     | Management system for a mechanic shop       | React Rust     | [Repo](https://github.com/eduardofreitasf/mechanic_shop)    |
+| **Data Structures**  | Implementation of different data structures | C              | [Repo](https://github.com/eduardofreitasf/data_structures)  |
+| **Memory Allocator** | Memory allocation library                   | C              | [Repo](https://github.com/eduardofreitasf/memory_allocator) |
+| **Build System**     | Build system for C projects                 | Python         | [Repo](https://github.com/eduardofreitasf/build_system)     |
+| **Beat The Deck**    | Beat the deck game                          | HTML CSS VueJS | [Repo](https://github.com/eduardofreitasf/beat_the_deck)    |
+| **Portfolio**        | Personal Portfolio website                  | HTML CSS VueJS | [Repo](https://github.com/eduardofreitasf/portfolio)        |
 
 ---
 
@@ -55,14 +51,3 @@ My name is **Eduardo Freitas Fernandes** and I'm a **Software Engineering** stud
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardofreitasf&show_icons=true&theme=radical&include_all_commits=false&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofreitasf&layout=compact&theme=radical" />
 </p>
-
-<!--
-
----
-
-### 📫 How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoffernandes/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
-
--->
-
