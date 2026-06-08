@@ -8,7 +8,7 @@ My name is **Eduardo Freitas Fernandes** and I'm a **Software Engineering** stud
 - 🐧 **Low-Level Enthusiast:** Deeply interested in **Linux internals**, **OS development**, and **C programming**.
 - 🧩 **Algorithm Fanatic:** Love exploring **Functional Programming (Haskell)**, complex Data Structures, and Big-O optimization.
 - 🔐 **Security & Comms:** Exploring network security and the fundamentals of digital communication.
-- 🔭 I’m currently working on **[Mechanic Pro](https://github.com/eduardofreitasf/mechanic_shop)**
+- 🔭 I’m currently working on **[Mechanic Pro](https://github.com/eduardofreitasf/MechanicPro)**
 - 🌱 I’m currently learning **Java frameworks and project modeling**.
 - 🌍 Check out my portfolio: **[Portfolio](https://eduardofreitasf.github.io/portfolio/)**
 
@@ -37,7 +37,7 @@ My name is **Eduardo Freitas Fernandes** and I'm a **Software Engineering** stud
 
 | Project              | Description                                 | Tools          | Link                                                        |
 | :------------------- | :------------------------------------------ | :------------- | :---------------------------------------------------------- |
-| **Mechanic Pro**     | Management system for a mechanic shop       | React Rust     | [Repo](https://github.com/eduardofreitasf/mechanic_shop)    |
+| **MechanicPro**      | Management system for a mechanic shop       | React Rust     | [Repo](https://github.com/eduardofreitasf/MechanicPro)    |
 | **Data Structures**  | Implementation of different data structures | C              | [Repo](https://github.com/eduardofreitasf/data_structures)  |
 | **Memory Allocator** | Memory allocation library                   | C              | [Repo](https://github.com/eduardofreitasf/memory_allocator) |
 | **Build System**     | Build system for C projects                 | Python         | [Repo](https://github.com/eduardofreitasf/build_system)     |
