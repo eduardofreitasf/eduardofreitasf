@@ -6,10 +6,10 @@ My name is **Eduardo Freitas Fernandes** and I'm a **Software Engineering** stud
 
 - 🎓 **Education:** Software Engineering Degree @ UMinho
 - 🐧 **Low-Level Enthusiast:** Deeply interested in **Linux internals**, **OS development**, and **C programming**.
-- 🧩 **Algorithm Fanatic:** Love exploring **Functional Programming (Haskell)**, complex Data Structures, and Big-O optimization.
+- 🧩 **Algorithm Fanatic:** Love exploring **Functional Programming**, complex Data Structures, and Big-O optimization.
 - 🔐 **Security & Comms:** Exploring network security and the fundamentals of digital communication.
-- 🔭 I’m currently working on **[Mechanic Pro](https://github.com/eduardofreitasf/MechanicPro)**
-- 🌱 I’m currently learning **Java frameworks and project modeling**.
+- 🔭 I’m currently working on **[Endless](https://github.com/eduardofreitasf/Endless)**
+- 🌱 I’m currently learning **Web Development and Project Modeling**.
 - 🌍 Check out my portfolio: **[Portfolio](https://eduardofreitasf.github.io/portfolio/)**
 
 ---
