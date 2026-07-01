@@ -37,8 +37,8 @@ My name is **Eduardo Freitas Fernandes** and I'm a **Software Engineering** stud
 
 | Project              | Description                                 | Tools          | Link                                                        |
 | :------------------- | :------------------------------------------ | :------------- | :---------------------------------------------------------- |
-| **MechanicPro**      | Management system for a mechanic shop       | React Rust     | [Repo](https://github.com/eduardofreitasf/MechanicPro)    |
-| **Data Structures**  | Implementation of different data structures | C              | [Repo](https://github.com/eduardofreitasf/data_structures)  |
+| **MechanicPro**      | Management system for a mechanic shop       | React Rust     | [Repo](https://github.com/eduardofreitasf/MechanicPro)      |
+| **IronStruct**       | Implementation of different data structures | C              | [Repo](https://github.com/eduardofreitasf/IronStruct)       |
 | **Memory Allocator** | Memory allocation library                   | C              | [Repo](https://github.com/eduardofreitasf/memory_allocator) |
 | **Build System**     | Build system for C projects                 | Python         | [Repo](https://github.com/eduardofreitasf/build_system)     |
 | **Beat The Deck**    | Beat the deck game                          | HTML CSS VueJS | [Repo](https://github.com/eduardofreitasf/beat_the_deck)    |
